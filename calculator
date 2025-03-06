@@ -1,5 +1,10 @@
+ conflict_2
+        string name = "tyui";
+        string rollNo = "24-ST-079";
+
         string name = "asdf";
         string rollNo = "24-ST-068";
+ main
         Console.WriteLine("\n--- Student Details ---");
         Console.WriteLine("Name: " + name);
         Console.WriteLine("Roll Number: " + rollNo);
