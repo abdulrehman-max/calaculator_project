@@ -3,3 +3,11 @@
         Console.WriteLine("\n--- Student Details ---");
         Console.WriteLine("Name: " + name);
         Console.WriteLine("Roll Number: " + rollNo);
+
+
+        int num1 = 20;
+        int num2 = 10;
+        int result = num1 - num2;
+        Console.WriteLine("Number 1: " + num1);
+        Console.WriteLine("Number 2: " + num2);
+        Console.WriteLine("Subtraction: " + result);
