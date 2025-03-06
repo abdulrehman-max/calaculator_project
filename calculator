@@ -1,5 +1,5 @@
-        string name = "Ali";
-        string rollNo = "24-ST-076";
+        string name = "asdf";
+        string rollNo = "24-ST-068";
         Console.WriteLine("\n--- Student Details ---");
         Console.WriteLine("Name: " + name);
         Console.WriteLine("Roll Number: " + rollNo);
