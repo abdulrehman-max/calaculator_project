@@ -3,3 +3,16 @@
         Console.WriteLine("\n--- Student Details ---");
         Console.WriteLine("Name: " + name);
         Console.WriteLine("Roll Number: " + rollNo);
+
+
+        if (num2 != 0)
+        {
+            double result = num1 / num2;
+            Console.WriteLine("Number 1: " + num1);
+            Console.WriteLine("Number 2: " + num2);
+            Console.WriteLine("Division: " + result);
+        }
+        else
+        {
+            Console.WriteLine("Error: Cannot divide by zero!");
+        }
